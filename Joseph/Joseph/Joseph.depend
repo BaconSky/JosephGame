@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1572377825 source:/home/johann/Desktop/Andrei/Joseph/src/Dllist.cpp
+	"Dllist.h"
+	<cstddef>
+	<iostream>
+
+1572376928 /home/johann/Desktop/Andrei/Joseph/include/Dllist.h
+	<Node.h>
+
+1572377089 /home/johann/Desktop/Andrei/Joseph/include/Node.h
+
+1572377089 source:/home/johann/Desktop/Andrei/Joseph/src/Node.cpp
+	"Node.h"
+
+1572377907 source:/home/johann/Desktop/Andrei/Joseph/main.cpp
+	<iostream>
+	"Dllist.h"
+
